@@ -11,7 +11,7 @@ Tecnologias usadas para construir o projeto:
 
 Com certeza a maior dificuldade nesse projeto foi a inserção do javaScript, pois eu fiquei quebrando a cabeça para entender como fazer funcionar o jogo, busquei referencias, mas mesmo assim eu não compreendi direito como eu faria pra codar isso em JS e no fim eu não consegui, mesmo com inumeras tentativas eu nunca conseguia fazer com que o jogo atendesse os requisitos minimos...
 
-link:
+link: https://espadinhas.netlify.app
 
 Instruções: 
 * O jogador poderá escolher até 3 espadas para serem retiradas, sendo elas de sua respectiva coluna. O vencedor é declarado ao final, qunado o a ultima espada é retirada, sendo o vencedor quem a retirou
